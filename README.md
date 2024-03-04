@@ -8,3 +8,6 @@ I had found blueprints of a judaic Arabic synagogue in New York that included hi
 to install, in terminal git clone https://github.com/777388/SeinfeldScriptExtension.git,  go into chrome://extensions/ on your Chrome URL bar, hit load unpacked and put in the seinfeld script extension folder that you cloned in through your terminal.
 
 to use, highlight a word or text, right click and press Seinfeld Script
+
+
+Said I'd get to sleep in the tub, and use peoples missing socks as a blanket for the whole album.
