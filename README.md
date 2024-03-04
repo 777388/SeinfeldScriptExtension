@@ -11,3 +11,5 @@ to use, highlight a word or text, right click and press Seinfeld Script
 
 
 Said I'd get to sleep in the tub, and use peoples missing socks as a blanket for the whole album.
+
+![image](https://github.com/777388/SeinfeldScriptExtension/assets/96343159/59a23ca9-7422-44b5-b226-c9f1b3ef9aa4)
